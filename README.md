@@ -13,7 +13,7 @@
 
 **Filter**: it iterates over an array elements and returns a new array with elements satisfying a condition which is given. It works basically as a filter as the name suggests.
 
-Reduce: It reduces an array to a single value by iterating over an array, it returns the value of the callback function, the value is stored in accumulator.
+**Reduce**: It reduces an array to a single value by iterating over an array, it returns the value of the callback function, the value is stored in accumulator.
 
                                                    ******************************************
  **Implementation of Map,Filter and Reduce**
