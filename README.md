@@ -7,7 +7,7 @@
 
 **useState API**: useState is a hook, a hook is a special function which lets you "hook into" react features. useState hook lets you add react state to functional components. which basically means it lets you modify the local state of the component.
 
-                                     *****************************************
+                                                   *****************************************
 
 **Map**: It iterates over an array elements and returns a new array;
 
@@ -15,10 +15,11 @@
 
 Reduce: It reduces an array to a single value by iterating over an array, it returns the value of the callback function, the value is stored in accumulator.
 
-                                     ******************************************
- **implementation of Map,Filter and Reduce**
+                                                   ******************************************
+ **Implementation of Map,Filter and Reduce**
 
-```function MyArray() {
+```
+function MyArray() {
     this.length = 0;
     Object.defineProperty(this,"length", {
         value: 0,
